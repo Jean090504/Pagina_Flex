@@ -53,3 +53,20 @@ ul, ol, li{
     border-radius: 50%;
     margin: 2px;
 }
+
+.circulos3{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(245, 172, 172);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circulos3 div{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(228, 102, 102);
+    border-radius: 50%;
+    margin: 2px;
+}
