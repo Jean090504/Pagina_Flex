@@ -103,3 +103,19 @@ ul, ol, li{
     background-color: rgb(103, 103, 233);
     border-radius: 50%;
 }
+
+.circulos6{
+    width: 100vw;
+    height: 200px;
+    background-color:rgb(97, 96, 96);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.circulos6 div{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(30, 29, 29);
+    border-radius: 50%;
+}
