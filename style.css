@@ -37,3 +37,19 @@ ul, ol, li{
     margin: 2px;
 }
 
+.circulos2{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(186, 236, 195);
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.circulos2 div{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(115, 211, 115);
+    border-radius: 50%;
+    margin: 2px;
+}
